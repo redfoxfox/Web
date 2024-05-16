@@ -1,3 +1,10 @@
+---
+title: 01-认识Web和Web标准
+publish: true
+---
+
+<ArticleTopAd></ArticleTopAd>
+
 
 
 ## Web、网页、浏览器
@@ -18,17 +25,14 @@ Web（World Wide Web）即全球广域网，也称为万维网。
 
 浏览器是网页运行的平台，常见的浏览器有谷歌（Chrome）、Safari、火狐（Firefox）、IE、Edge、Opera等。
 
-关于浏览器的详细介绍，可以看下一篇文章：《[浏览器的介绍](https://github.com/qianguyihao/Web/blob/master/01-html/02-%E6%B5%8F%E8%A7%88%E5%99%A8%E7%9A%84%E4%BB%8B%E7%BB%8D.md)》
-
-
-
+关于浏览器的详细介绍，可以看下一篇文章：《浏览器的介绍》。
 
 ## Web标准
 
 
 ### W3C组织
 
-**W3C**：万维网联盟组织，用来制定web标准的机构（组织）。
+**W3C**：World Wide Web Consortium，万维网联盟组织，用来制定web标准的机构（组织）。
 
 W3C 万维网联盟是国际最著名的标准化组织。1994年成立后，至今已发布近百项相关万维网的标准，对万维网发展做出了杰出的贡献。
 
@@ -56,7 +60,7 @@ Web标准不是某一个标准，而是由W3C组织和其他标准化组织制�
 
 - HTML（HyperText Markup Language）：超文本标记语言。从**语义**的角度描述页面的**结构**。相当于人的身体组织结构。
 - CSS（Cascading Style Sheets）：层叠样式表。从**审美**的角度美化页面的**样式**。相当于人的衣服和打扮。
-- JS：JavaScript。从**交互**的角度描述页面的**行为**。相当于人的动作，让人有生命力。
+- JavaScript（简称JS）：从**交互**的角度描述页面的**行为**，实现业务逻辑和页面控制。相当于人的动作，让人有生命力。
 
 **3、打个比方**：（拿黄渤举例）
 
